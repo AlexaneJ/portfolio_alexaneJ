@@ -326,3 +326,20 @@ header .navbar a:hover{
     }
 
 }
+
+.businessCardBtn {
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+    transition: .5s ease;
+    border: none;
+    background-color: #ff3c00;
+    box-shadow: 2px 2px 1px 0px rgba(62, 62, 128, 0.322);
+
+}
+
+.businessCardBtn:hover {
+    background-color: rgb(255, 206, 115);
+    border: 1px solid #ffffff; 
+    text-align: center;
+}
